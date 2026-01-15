@@ -1,2 +1,1 @@
 # namaste-react
-# react course
